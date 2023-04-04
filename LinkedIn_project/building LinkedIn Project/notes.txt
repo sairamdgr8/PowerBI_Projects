@@ -1,0 +1,34 @@
+PowerBI Login Details:-
+
+user:sairampl@sairamdgr8.onmicrosoft.com
+password:Bunny123
+
+========
+
+learninig PowerBI:-
+
+https://youtu.be/cX7R3PRkZ5w
+
+
+============
+
+--- study in PowerBI
+ topics
+ 1)import sample file and do learninig checks
+ 2) import multiple files and checks
+ 3) data cleaninig using sql 
+ 4) interactive  board using PYTHON setup
+ 
+ 
+ 
+ ==========
+ 
+ creating linklden profile
+ 
+ 
+ https://www.youtube.com/watch?v=btP41Yn9_EU&t=214s
+ 
+Creating powerBI template using canvas
+
+https://www.youtube.com/watch?v=GJ6TzbThIro
+

@@ -1,0 +1,656 @@
+Date,Link,Message
+2023-03-30 10:18:13,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A7047069104062480384,Lucky Singh Shekhawat  pure duniya ko bata diya ...bhai😀
+2023-03-29 15:59:46,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A7046521751320576001,Congratulations Sachin bhai
+2023-03-29 15:56:52,https://www.linkedin.com/feed/update/urn%3Ali%3AugcPost%3A7046398625236586497,Congratulations annaya
+2023-03-28 04:50:38,https://www.linkedin.com/feed/update/urn%3Ali%3AgroupPost%3A25827-7046131003743961088,this fears me
+
+2023-03-27 12:51:12,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A7046066889751412737,Avi Chawla  bit curious does it behave the same flexibility and functionality similar to python run command and also with its execution?
+2023-03-26 09:11:51,https://www.linkedin.com/feed/update/urn%3Ali%3AgroupPost%3A25827-7045582290206273536,Szymon Kowalik python always surprises
+2023-03-23 15:37:04,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A7043631417548795904,"Acid properties, time travel helps to achieve things  in delta lake Anandaraj Pandian"
+2023-03-17 04:10:23,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A7027596724437168129,"Vaibhav Verma
+select sell_date,listagg(dist_pro,',') AS products,count(sell_date)as num_sold from (select distinct sell_date,product as dist_pro from Activities ) group by sell_date"
+2023-03-13 11:52:35,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A7041005253919481856,Krishna Chaitanya
+2023-03-11 02:18:51,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A7039911203912957953,#cfbr #freshersjobs  #maxshare
+
+2023-02-01 09:40:47,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A7024272169614393344,Reach++
+2023-01-29 06:22:41,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A7020568786885873665,My joke is taking longer than usual  to process as the resources are not enough Suraz Ghimire
+2023-01-27 07:25:55,https://www.linkedin.com/feed/update/urn%3Ali%3AugcPost%3A7024576186953457664,Bitthal Khaitan  curious to know the second option people😟
+2023-01-25 10:23:41,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A7023835404990640128,Happy birthday Suraz Ghimire  bhai
+2023-01-18 13:56:39,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A7021144385413140480,More power to you 🙏Matthew Powers
+2023-01-14 03:44:56,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A7018784808361181184,Its something positive Note.... irrespective on uncertainity 
+2023-01-12 06:22:20,https://www.linkedin.com/feed/update/urn%3Ali%3AugcPost%3A7019159639707590657,So satisfying
+2023-01-10 05:32:11,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A7013349100293107712,Chandrali Sarkar 
+2023-01-10 05:29:53,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A7013349100293107712, Chandrali Sarkar if we use flatmap all the statements comes under single list.
+if i miss anything let me know..
+
+2023-01-08 01:10:26,https://www.linkedin.com/feed/update/urn%3Ali%3AugcPost%3A7017418250317701120,"Set function makes the all the values to be stored  in sorted order so ""True""
+Other one is ""False"" as the value refrences and not same"
+2023-01-07 23:55:04,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A7017514395203227648,Congratulations bro👏
+2023-01-05 16:44:41,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A7016787026716893184,"select * from (select emp_name, emp_dept, emp_sal,avg_sal ,dense_rank() over ( order by avg_sal desc) as dns_rnk from (select * from (select emp_name, emp_dept, emp_sal,avg(emp_sal) over (partition by emp_dept ) as avg_sal from emp_sal_check) order by avg_sal desc)) where dns_rnk=1"
+2023-01-05 16:38:01,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A7016787026716893184,Lasitha Benaragama  pick up the highest average salary from department wise..
+2023-01-05 15:29:53,https://www.linkedin.com/feed/update/urn%3Ali%3AgroupPost%3A12024092-7016787112939180032,"select * from (select emp_name, emp_dept, emp_sal,avg_sal ,dense_rank() over ( order by avg_sal desc) as dns_rnk from (select * from (select emp_name, emp_dept, emp_sal,avg(emp_sal) over (partition by emp_dept ) as avg_sal from emp_sal_check) order by avg_sal desc)) where dns_rnk=1"
+2022-12-23 23:51:36,https://www.linkedin.com/feed/update/urn%3Ali%3AugcPost%3A7011962416217382913,#cfbr
+2022-12-17 04:58:54,https://www.linkedin.com/feed/update/urn%3Ali%3AugcPost%3A7008785807926845440,Loved the illusion
+2022-12-13 07:33:40,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A7008048958371495937,Amitava Debnath it should have previous of one record  only...one is active and one is inactive..
+Kindly explain if im wrong....👍
+2022-12-13 03:35:45,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A7008048958371495937,Why type-2 have dhoni
+2022-12-05 02:26:56,https://www.linkedin.com/feed/update/urn%3Ali%3AugcPost%3A7005039349503320064,Most of them are answering tortoise…🐢
+But ideally it should be both hand in hand..🤝
+Moral Gyan 😜 TR Raveendra
+2022-12-01 07:31:54,https://www.linkedin.com/feed/update/urn%3Ali%3AugcPost%3A7003961920470827008,kindly check this blog for answer 
+https://medium.com/@sairamdgr8/acing-apache-spark-rdd-interview-questions-series-1-using-pyspark-96eb0b8aeb41
+2022-12-01 07:31:34,https://www.linkedin.com/feed/update/urn%3Ali%3AugcPost%3A7003961920470827008,Chandrali Sarkar
+kindly check this blog for answer 
+https://medium.com/@sairamdgr8/acing-apache-spark-rdd-interview-questions-series-1-using-pyspark-96eb0b8aeb41
+2022-11-23 15:39:22,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A7001178836759363584,Could you tell me about soda Marc Lamberti
+2022-11-21 13:11:54,https://www.linkedin.com/feed/update/urn%3Ali%3AugcPost%3A7000408419677450240,Dil pe le liya🤣 Suraz Ghimire
+2022-11-21 07:02:53,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A7000055193690112000,USA--- United States of Ameerpet 😬
+2022-10-27 14:39:29,https://www.linkedin.com/feed/update/urn%3Ali%3AugcPost%3A6990935944421945344,#support
+2022-10-02 00:54:12,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6981810434446102529,Following
+2022-09-27 00:05:32,https://www.linkedin.com/feed/update/urn%3Ali%3AugcPost%3A6980086291614838785,Congratulations Sreeja R
+2022-09-19 14:15:19,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6977264185298612224,??
+2022-09-17 03:23:28,https://www.linkedin.com/feed/update/urn%3Ali%3AugcPost%3A6973505980726743040,Same religious country fights so this didn't bumped...other wise it would have shaken the world badly....☹️ Bilaterally
+2022-09-15 23:55:19,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6976231682781679616,Following 
+2022-09-12 14:37:14,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6974751146993180672,#support 
+2022-08-29 14:35:11,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6969990450074001408,Hopefully 🙏
+2022-08-29 00:02:16,https://www.linkedin.com/feed/update/urn%3Ali%3AugcPost%3A6969613955065409537,Glad for the support.. Mitchell van Rijkom
+2022-08-28 11:22:59,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6952956138476732416,Ranjith Gonugunta i tried to exted Mitchell van Rijkom post ..
+in practical way..
+kindly go through the reading if possible.
+2022-08-28 11:19:49,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6952956138476732416,Mitchell van Rijkom adding some boost to this post...
+
+https://www.linkedin.com/feed/update/urn:li:ugcPost:6969613955065409537?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3AugcPost%3A6969613955065409537%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
+2022-08-11 03:42:45,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6963311666402922498,Sathish Kumar G  ❤️
+2022-08-11 03:39:33,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6963158311240183809,Thanks babai🤝
+2022-08-07 13:02:37,https://www.linkedin.com/feed/update/urn%3Ali%3AugcPost%3A6961991986790760448,Balayya babu rocks in tech world as well😅
+2022-07-29 23:05:15,https://www.linkedin.com/feed/update/urn%3Ali%3AugcPost%3A6958847690491269120,Congratulations Sreeharsha Naik
+2022-07-29 13:43:06,https://www.linkedin.com/feed/update/urn%3Ali%3AugcPost%3A6958694946086277120,Congratulations bhai...Shravan Kumar Sharma
+2022-07-28 02:28:31,https://www.linkedin.com/feed/update/urn%3Ali%3AugcPost%3A6957781709337559042,Congrats Nashra... Al the best…
+2022-07-27 08:25:26,https://www.linkedin.com/feed/update/urn%3Ali%3AugcPost%3A6957946732420755456,Congratulations Harshpreet Kaur
+2022-07-23 05:11:13,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6954099422859284480,https://sairamdgr8.medium.com/spark-adaptive-query-execution-performance-optimization-using-pyspark-43b05f24fd0a
+
+
+Kindly go through this link for more handson
+2022-07-21 11:50:44,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6955738744649895936,Finally....Siddharth Nautiyal
+2022-07-19 09:49:22,https://www.linkedin.com/feed/update/urn%3Ali%3AugcPost%3A6955071406061547520,Congratulations..Cheshtha Thakur
+2022-07-18 13:31:28,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6954462899608125440,Money ...money....money.....fake...fake...fake...#cfbr #fakenews #support #fake #fakefeminism #milaap #keto #humansofbombay Humans of Bombay lost their reputation. I belive ...
+2022-07-15 09:02:19,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6953625372202532864,Narendra Modi
+2022-07-14 11:58:36,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6953233433833734144,Jasti Sai Babuhmm ..any have congratulations..
+2022-07-14 07:19:22,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6953233433833734144,They haven’t printed your name on borosil ??Jasti Sai Babu
+2022-07-13 13:05:46,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6950146926507868161,Kumari Prerna write a mail to databricks team definitely they will help to recover .. hopefully all goes good...
+2022-07-13 08:19:52,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6950146926507868161,How come??Kumari Prerna   do passwords compromised?
+2022-07-07 13:39:54,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6948599246879100928,Sravana Lakshmi Pisupatiok... thanks mam...will look into it ...you can share any related scenario doc if possibe
+2022-07-07 03:59:02,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6948599246879100928,Sravana Lakshmi Pisupati  pandas udfs means which doesn't comes with distributed approach? Please correct me if I'm wrong ...
+2022-07-03 03:20:01,https://www.linkedin.com/feed/update/urn%3Ali%3AugcPost%3A6947867308035846144,How this is helpful to LinkedIn community.  Could explain sir ..if possible...Principal Rasik Gupta 
+2022-07-02 06:11:17,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6948599246879100928,Vijay S C  tha ks for the post ...but u can't avaiid business logic where some times it require UDF functions 
+2022-07-02 02:56:39,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6948643226614386688,Priyanta Basak irony is that ...people will stay in Banglore and spread negativity....
+2022-06-30 06:43:27,https://www.linkedin.com/feed/update/urn%3Ali%3AugcPost%3A6947058854949978112,Kindly go through my blog..
+SUSHANTA KHARA   Pardeep Gorla
+
+https://sairamdgr8.medium.com/spark-adaptive-query-execution-performance-optimization-using-pyspark-43b05f24fd0a
+2022-06-25 03:06:40,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6946014154902102016,Reach++
+2022-06-25 02:57:17,https://www.linkedin.com/feed/update/urn%3Ali%3AugcPost%3A6946196318365110272,Congratulations sirji...
+2022-06-09 13:17:39,https://www.linkedin.com/feed/update/urn%3Ali%3AugcPost%3A6940215007997485056,Rahul Esikala with all  your blessings I'm here ..
+2022-06-08 22:38:06,https://www.linkedin.com/feed/update/urn%3Ali%3AugcPost%3A6940215007997485056,Congratulations bro ...
+2022-06-08 15:11:04,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6940209311360892928,Rahul Esikala  check this...for your reference
+2022-05-29 16:35:56,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6936647088659144704,I think he went into hallucination at second time Ajith Sasidharan 
+2022-05-29 00:50:38,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6935115641708253184,#freshersjobs  #widerreach
+2022-05-26 06:48:35,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6934882041368907776,Great opportunity
+2022-05-25 00:31:19,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6934527276709490688,++ wide reach #widereach
+2022-05-23 10:15:36,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6934229939730661376,But no where it seems like that😂 Kartik Kudada 
+2022-05-23 08:57:32,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6934229939730661376,I'm not understanding what is scala developers with python...they need experience in both??
+2022-05-21 19:12:39,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6931830474621227008,Shah Jaivik  nothing to say  sorry here bro....it just knowledge sharing each other....I hope you understand 🤝
+2022-05-21 14:19:59,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6933697417523400704,Aravind Sriram agree.... product based companies mostly make use out of it....but it still takes time for other companies to jump in
+2022-05-21 12:52:23,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6933697417523400704,Most of the  compines ....which migrating to cloud have  having csv formatted data because of the traditional database is rdbms.. which is eventually having data in structured format....only some companies hold unstructured data...which is Json or xml files present...Aravind Sriram
+2022-05-19 10:19:20,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6932884107873910785,Suraz Ghimire 😂 agree...
+2022-05-19 09:59:48,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6932884107873910785,Suraz Ghimire  inside me....let people learn data science...more jobs for data engineers...😅
+2022-05-18 00:28:13,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6932374447039340544,++
+2022-05-17 23:46:05,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6931830474621227008,"How about randint function ,? Shah Jaivik "
+2022-05-16 22:24:39,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6932037822493188097,Congratulations bro Gokul Reghunath 
+2022-05-16 08:42:52,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6931883361229553664,"Congo....Komal Jain, PSM I, CIS-ITSM, CSA, ITIL®v3 "
+2022-05-12 02:13:05,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6930321176279863296,Congrats Shashidhar Yadav K T
+2022-05-11 12:27:45,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6930107299642380289,Congratulations bro Sachin Mittal 
+2022-05-07 14:31:49,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6927940388800397312,Al the best Akhil Kamal 
+2022-05-01 02:59:26,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6924731282165833728,Waiting for invite Clémence Meyer 
+2022-04-16 02:25:13,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6920711730448764928,No need to guess....all government banks are same ..we need to have option to this question is all of the above 😅
+2022-04-15 15:48:26,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6920704128969043968,Sai Babu Chowdary Jasti instead of hard coding  date we can add the column name right?
+2022-04-15 11:50:31,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6920233009602334720,Ola Electric you have lost so many customers sir ... Stick to basics...
+2022-04-15 09:30:32,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6920233009602334720,Ola Electric These type of answers  doesn't work anymore...sir....
+2022-04-15 09:25:20,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6920045799129165824,DTDC Express Limited
+2022-04-14 15:46:47,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6920342766031970304,PRAMOD AGRAWAL
+2022-04-14 15:44:56,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6920219591373713408,Akash Mahindrakar check my post
+
+https://www.linkedin.com/posts/sairam-p-l_sql-interviewprep-interview-activity-6899332334727106560-ep4n?utm_source=linkedin_share&utm_medium=android_app
+2022-04-14 15:33:36,https://www.linkedin.com/feed/update/urn%3Ali%3AgroupPost%3A12135067-6920295494191652864,Information schema is one time best approach to check the status accurately....and check the possibilities with time travel concept
+2022-04-14 14:27:38,https://www.linkedin.com/feed/update/urn%3Ali%3AgroupPost%3A12135067-6920295494191652864,Sachin Mittal  need ur expertise
+2022-04-13 05:44:47,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6919688716072493056,Rahul Esikala
+2022-04-12 14:57:24,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6919518947444744192,However got the answer from Ashok Gupta Sir..Kindly check my
+resultant output in the comment section.
+Thanks Again for active participation 👍  Pritish Nandy
+2022-04-12 14:51:39,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6919518947444744192,"Answer for now:-
+select emp_id, emp_date, emp_expense,
+avg(emp_expense) over (ORDER BY emp_id ROWS BETWEEN UNBOUNDED PRECEDING AND CURRENT ROW) as avg_rolling_expense
+from employee_rolling_average_question"
+2022-04-12 14:50:52,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6919518947444744192,"Ashok Gupta loved it, ...working Sir"
+2022-04-12 14:39:46,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6919518947444744192,Pritish Nandy Hi bro in oracle it is like this did I do any miss?from your Query?
+2022-04-12 12:35:38,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6919518947444744192,"Ashok Gupta Yes Ashok, we need to have row number on top of that we can have running sum or running avg...
+But seeing how can we achieve this with generalized SQL"
+2022-04-12 12:21:13,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6919518947444744192,Pritish Nandywe need to do some work around I believe
+2022-04-12 12:20:45,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6919518947444744192,Pritish Nandy try to implement this output will not be correct.  As expected in my screenshot..
+2022-04-12 11:50:39,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6919518947444744192,Pritish Nandy  bro here emp_id is not unique so this doesn't work bro
+2022-04-11 02:47:41,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6918397772681412608,LinkedIn  should provide haha reaction emoji symbol for such type of posts
+2022-04-09 15:48:52,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6918413403405316096,And a big weapon to them is simply saying policy got changed Rahul Singh
+2022-04-09 15:00:39,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6918413403405316096,Not 1 year 2 years ...with all limitations
+Some areas they take certificates also Rahul Singh
+2022-04-08 15:11:34,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6917523704872669184,IISER KOLKATA
+2022-04-08 15:09:10,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6918067406535880704,Linklden should remove copy paste command ..so we will get to know how patient the content writer is upto 😅 Suraz Ghimire
+2022-04-08 10:35:11,https://www.linkedin.com/feed/update/urn%3Ali%3AugcPost%3A6917885925003866112,Pawan Kumar K.
+2022-04-08 02:44:04,https://www.linkedin.com/feed/update/urn%3Ali%3AgroupPost%3A8197127-6918002679260545024,Rahul Esikala
+2022-04-07 15:11:54,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6917783469246873600,Thanks bro 🤝Sai Babu Chowdary Jasti 
+2022-04-07 10:36:10,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6917764503258492928,Sundarraj T ✌️🤝
+2022-04-06 12:55:51,https://www.linkedin.com/feed/update/urn%3Ali%3AugcPost%3A6917452355105865728,congrats Arindam .....
+2022-04-05 23:50:35,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6912743187035926528,HDFC Bank Axis Bank ICICI Bank
+2022-04-05 00:13:57,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6916738182311006210,Good going...
+2022-04-05 00:04:29,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6916741650430009344,joy dev
+2022-04-02 13:46:21,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6915244520754282496,OnePlus
+2022-04-02 06:04:34,https://www.linkedin.com/feed/update/urn%3Ali%3AugcPost%3A6912648748611309568,😅
+2022-04-02 03:46:25,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6915611111903961088,Sai Babu Chowdary Jasti
+2022-04-01 12:51:17,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6915626956407345152,✍️Gourav Sikka✍️  good content...
+My question is does the snowflake to be considered as datalake?
+2022-03-31 15:44:59,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6915167500900913152,Surabhi Ambastha
+2022-03-31 11:52:02,https://www.linkedin.com/feed/update/urn%3Ali%3AugcPost%3A6915263887990755328,Congratulations surbhi....
+2022-03-31 03:02:52,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6915019959916011520,Manjunath S By the way it's not Sir Ratan Tata Quote..once he said in the interview..
+2022-03-28 03:25:43,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6913786369777553408,Bala Karthikeyan  Some companies are specific to certification senarios so we can't let hr to take it from their mind ...
+2022-03-28 03:24:44,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6913786369777553408,Sourav Dasgupta  can't agree.   Hr's are in search of specific cloud candidates for thier requirements.it makes sense during interview...
+Generally speaking functionality of cloud is same for all players but only thier naming convention changes...
+2022-03-26 04:57:56,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6913105102861918208,Sachin Mittal  next app hi  ho ...
+2022-03-23 10:27:09,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6911865454323990528,I also thought the same
+2022-03-23 03:25:40,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6912236760995414016,They Don't want human ...they are in search of Superman...
+2022-03-21 10:32:10,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6911559248661331968,It's working for me bro...since 2 yrs
+2022-03-18 10:17:08,https://www.linkedin.com/feed/update/urn%3Ali%3AugcPost%3A6910403061525991424,Thanks bro
+2022-03-18 03:20:02,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6909843391803469825,Not only that advertising marketing 😂
+2022-03-15 05:03:20,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6909189508643061760,Even #hr is asking pancard to attend the interviews ...what the hell is happening ..😟
+2022-03-15 03:52:37,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6909161961373011968,Because they are psychiatrist.  😅 Bahubal Jain
+2022-03-14 03:12:01,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6908728853070528512,When people don't believe on product...this happens😅 Ragul Sundaram
+2022-03-13 17:14:39,https://www.linkedin.com/feed/update/urn%3Ali%3AgroupPost%3A131724-6905868067872616448,Obaidur Rehman
+2022-03-13 16:46:13,https://www.linkedin.com/feed/update/urn%3Ali%3AgroupPost%3A131724-6905017704110252032,Manohar B
+2022-03-12 12:16:09,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6908346988019236864,Tends to play with data like kids Hari Krishnan
+2022-03-11 01:27:04,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6907582609749086209,Some people say athma nirbhar bhartah is on the way😅 Prathamesh Bhat
+2022-03-10 17:57:11,https://www.linkedin.com/feed/update/urn%3Ali%3AugcPost%3A6907729408497733633,Traits are considered to be interfaces right??
+2022-03-09 15:57:31,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6907324922251853826,I don't believe myself...every time I take back not one 2 backps 🤣 Sharad Sharma
+2022-03-08 13:50:14,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6906923107140124672,Capgemini
+2022-03-06 07:50:18,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6905121702049648640,"All this because of elections purely.... nothing behind this...a big bomb is going bombard India in next week in the name of increase of prize oil in vehicles, oil in kitchen🔥🔥🔥😔
+An deadly rampage is going to happen...what I believe is..."
+2022-03-06 00:01:42,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6903978642829914113,Keep going brother ..more power to u....
+2022-03-05 17:16:55,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6905898796337766400,Always...bro...🤝✌️
+2022-03-05 04:53:35,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6905727605010518016,Vibhuti Rajput 😀
+2022-03-05 04:17:18,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6905720769549082624,Now astrologer is also aware of being  single problems 🤣🤣
+2022-03-04 16:12:01,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6905409488006856704,But most of the time I have seen more bad only.... Took little good at small place is hiding when compared to bad...this is what my experience...is ...
+2022-03-04 16:06:34,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6905492585939623936,Bro curious on this actually I'm interested to do it in Telugu....would u mind help us out in form of any YouTube demo or and links?
+2022-03-04 11:12:18,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6905408560096792576,Krishna Binoth Shahi
+2022-03-04 10:13:12,https://www.linkedin.com/feed/update/urn%3Ali%3AugcPost%3A6905355689531715584,Thanks for giving good experience.  Towards metaverse
+2022-03-04 07:28:16,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6905410642438950912,Please join the free sessions....
+Note : no advertising...
+Only free advice
+2022-03-04 02:04:44,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6905082457251573760,At the same time ur notice will increase😅
+2022-03-04 02:02:54,https://www.linkedin.com/feed/update/urn%3Ali%3AgroupPost%3A25827-6905166631706652672,Exactly ....same question here....
+2022-03-03 15:34:19,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6905104122677223424,It removes sarkari naukari...Wala people
+2022-03-03 15:24:18,https://www.linkedin.com/feed/update/urn%3Ali%3AugcPost%3A6905116539113349121,Ultimately paisa
+2022-03-03 14:07:54,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6905146831513497601,I have registered for it
+2022-03-03 14:06:31,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6905146831513497601,I understood.....keep moving... Ahead 🤣
+2022-03-03 01:00:57,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6904897513585803264,Deadly combo.  I hope streamlit still be continuing the free services.. for learners and developers... Snowflake Streamlit
+2022-03-03 00:58:34,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6904882162609250304,Zach Wilson  I love to be alone ....😅 And I stay it
+2022-03-02 11:32:39,https://www.linkedin.com/feed/update/urn%3Ali%3AugcPost%3A6904720897387618304,To be frank nothing...but great technologies
+2022-03-02 02:40:40,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6904349869582934016,Data is the new currency 😅
+2022-03-01 11:34:24,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6904327345118019584,Sai Babu Chowdary Jasti
+2022-03-01 11:01:51,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6904269823761641472,Shubhankit Sirvaiya but we see something in blue colour right 😂 just like that
+2022-03-01 10:42:55,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6904269823761641472,May be electricity is in blue...so
+2022-03-01 10:19:19,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6904353223331958784,Half of my btech went with only college labs...🤣 Neelesh Bhakt
+2022-02-28 10:45:39,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6903648873714454528,#cfbr
+2022-02-28 09:28:19,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6903980014166003712,Now some companies tries to offer you loan at a click of seconds.   🤣
+2022-02-28 08:56:58,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6903955249632272384,Сураз Гіміре  ❤️ 🇺🇦 correct ...no one is able to understand the situation ...it not boolean answer yes or no..
+2022-02-28 07:45:42,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6903926779346845696,Adding one more thing joining bonus for lucky people Shashank Mishra 🇮🇳
+2022-02-28 07:43:40,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6903955249632272384,Pankaj Menaria hopefully positive 🤞
+2022-02-28 07:31:25,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6903955249632272384,Pankaj Menaria it's not about the name bro...anyways u win the battle I will just sit aside and watch...🙏
+2022-02-28 07:28:14,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6903955249632272384,Сураз Гіміре  ❤️ 🇺🇦🤣
+2022-02-28 07:27:24,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6903955249632272384,We are  not like them bro...some difference should there between them and us...which keeps us unique from others....hope u understood Pankaj Menaria 
+2022-02-28 07:23:27,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6903955249632272384,Bro but I can't change my name... because I'm serving notice ....it will be difficult for hr to pronounce my name...😟 Сураз Гіміре  ❤️ 🇺🇦
+2022-02-28 07:21:46,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6903918834198401024,Top edu tech  companies and some companies who struggle to say we are top most edu tech...should learn from this🤣🤣
+2022-02-28 07:16:01,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6903742158197907456,Rishi Anandcorrct
+2022-02-28 07:15:04,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6903942289673330688,I have unfollowed some influencers on Linklden... purely obbesed with their marketing posts .. and chaatu gang....
+2022-02-27 17:32:36,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6903742158197907456,Done bro.... Thanks for Idea
+2022-02-27 17:32:26,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6903742158197907456,
+2022-02-27 16:30:58,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6903663780849348609,#Cfbr
+2022-02-27 11:52:22,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6903573446207639552,Bonoshree Mondal hmm... different...perceptions... Come from different environment...need to be strong....
+2022-02-27 07:23:00,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6903573446207639552,But you still won't be that bad as their are our blood...can't be compared parents with others..
+Because once u achieve it ..only  parents are the atmost happiest persons in the world
+2022-02-27 05:45:57,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6903573446207639552,It doesn't stop there....these comments will come from the colleagues as well....Shashank Mishra 🇮🇳
+2022-02-27 05:19:28,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6903344087362093056,Irrespective of community and religion..these have always been on top....❤️
+2022-02-27 01:48:52,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6903209658367000576,Shivangi Kalra  because creating the content is not a cup of tea for every one..
+2022-02-26 17:54:10,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6902824664603971585,Suraz Ghimire that's the fact😅
+2022-02-26 10:55:26,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6903253074232885248,My hit list was always asus rog republic phone and laptop.but I'm not sure when I will be going to afford it....😅
+2022-02-26 08:55:37,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6903203081689845760,Nashra sultana
+2022-02-26 07:02:20,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6903203081689845760,Lessons will be learned 😅
+2022-02-26 00:03:29,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6902892661825773568,Krishna Binoth Shahi
+2022-02-25 10:01:41,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6902880072882106368,Suraz Ghimire noted!
+2022-02-25 08:07:17,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6902880072882106368,Explained everything.... All possibilities ..included all the  leaders name which  given in the post
+2022-02-25 07:51:20,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6902824664603971585,Agree😅 but I eventually tell the truth personally to the candidate...
+2022-02-25 05:15:21,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6902836266606686208,"Yesterday Israel, now Ukraine... tensions around the world ..people speaking about ww3"
+2022-02-24 18:19:54,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6902665905097322496,Suraz Ghimire aap mulitalented.  Bhai saab.  🙏 No comments
+2022-02-24 18:02:25,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6902665905097322496,Next level ..Gitar...composer.  
+2022-02-24 13:23:49,https://www.linkedin.com/feed/update/urn%3Ali%3AugcPost%3A6902598563990495232,It's for real....I kept while loop running and the left the system for while....eventually after sometime system got hanged ..had to restart...🤯
+2022-02-24 12:05:36,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6902215208614400000,Yeah ... that's correct Priya Chauhan idea behind this to understand the interview senarios... If you find anything beyond that.. kindly let me know.
+2022-02-24 09:10:40,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6902532466285129728,Now a days it's difficult to get the feedback from hr... no luck .... Even I'm also facing the same.
+Irony is that if the interview is positive also they will say  next rounds are in hold🤣 and won't pick the calls..
+2022-02-24 07:11:18,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6902497099272044544,Suraz Ghimire Kya Kare attention chayiie.  Unko...
+2022-02-24 07:10:30,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6902497099272044544,Suraz Ghimire😅
+2022-02-24 06:49:58,https://www.linkedin.com/feed/update/urn%3Ali%3AugcPost%3A6902479878885904384,Next level ..
+2022-02-24 06:48:42,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6902497099272044544,Bhai Mai aise nhi hu😅 Suraz Ghimire
+2022-02-24 00:25:02,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6902215208614400000,Will try to implement in pyspark
+2022-02-23 14:30:23,https://www.linkedin.com/feed/update/urn%3Ali%3AugcPost%3A6902095168518942720,Nicholas Renotte your video has become viral.....but appreciation  went into other hands...any how congrats bro...🤝
+2022-02-23 14:28:47,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6902215208614400000,Glad it helped..👍
+2022-02-23 11:56:29,https://www.linkedin.com/feed/update/urn%3Ali%3AgroupPost%3A25827-6902183920813899776,"After successful execution ur code is creating one more count ie, 6+1=7 so eventually if condition will also be executed"
+2022-02-23 04:25:47,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6902034119010721792,Soumika Bhattacharjee
+2022-02-22 17:00:55,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6901902714750799874,Subham try to check this once https://stackoverflow.com/questions/56857453/what-is-the-difference-between-partitioning-and-bucketing-in-spark
+2022-02-22 16:38:10,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6901902714750799874,Subham purely we need to work spark side. To do bucketing on data level....as per knowledge it not with cloud directly.  
+2022-02-22 16:28:45,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6901902714750799874,Subham Sahu ☁️ so can we do some bucketing or partitioning on the dataset....if possible??
+2022-02-22 16:22:14,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6901902714750799874,Subham partition of data will leads to distribute the data over the partions of spark network.so if we use each record as one partition so definitely we have to wait for partions of spark to be freed to get processing for other set of records
+2022-02-22 16:03:12,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6901902714750799874,One question here repartitioning on I'd means each record one partition each?? If yes then if we exceed the number  of partitions so other data rows should wait. Until these partions get freed....right??? 
+And can't we do bucketing on specific column in data lake.  Just curious...if I'm wrong?
+2022-02-22 14:34:10,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6901849120147931136,Binoth Shahi
+2022-02-22 09:09:08,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6901801558028492800,Income tax should be paid from the influencers who post the same advertising  thing repeatedly
+2022-02-22 09:04:24,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6901775561887223808,Alternative to #Linklden should come
+2022-02-22 08:03:05,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6901214735342157824,Thanks Vinu Chakravarthy  glad it helps you...
+2022-02-22 06:35:59,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6901766473874759680,Binoth Shahi
+2022-02-22 04:03:38,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6901561920696971264,And more over market and advertising at its peak for people having huge number of followers
+2022-02-22 00:07:35,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6901409377551806464,I even started unfollowing people ..who are doing business
+2022-02-21 03:54:16,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6901214735342157824,Thanks Ram....
+2022-02-20 14:13:00,https://www.linkedin.com/feed/update/urn%3Ali%3AugcPost%3A6901160080793026560,sai with M1-back i mean back logs
+for me it is Electrical technology!!!! 😂 Shashank Mishra 🇮🇳
+2022-02-20 12:05:44,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6901132704113401856,#Marketing
+2022-02-20 06:06:15,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6901034123285147648,Great opportunity
+2022-02-20 03:13:13,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6900742963102908416,Binoth Shahi
+2022-02-19 23:57:15,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6900788477097512960,If interviewer made his mind to reject you any way...there will be no luck & hard work  doesn't matter...even I have gone through with this phase ...only 20 minutes of casual discussion rejected...n many more.....
+2022-02-19 09:13:11,https://www.linkedin.com/feed/update/urn%3Ali%3AugcPost%3A6900660313700847616,Good work keep it up...👍...I hope more to hear in feature about Hadoop ecosystems..
+2022-02-18 16:15:10,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6900417845436522496,Binoth Shahi
+2022-02-18 13:02:58,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6900344099568726016,Relatable😅
+2022-02-18 00:41:53,https://www.linkedin.com/feed/update/urn%3Ali%3AugcPost%3A6900168859882770432,Increase crime rate ..
+2022-02-17 15:58:52,https://www.linkedin.com/feed/update/urn%3Ali%3AgroupPost%3A3990648-6900095612281344000,It made a smile on my face😍
+2022-02-17 12:13:08,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6900024213709692928,Leave that ..atleast feedback after the interview will suffice the candidate hunger...😢
+2022-02-17 12:07:00,https://www.linkedin.com/feed/update/urn%3Ali%3AgroupPost%3A3990648-6900033798785093632,I support this project should gain more and more features 💐
+2022-02-17 10:26:20,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6899968705762091008,Congratulations keerti...hope I get the same email in future
+2022-02-17 05:52:31,https://www.linkedin.com/feed/update/urn%3Ali%3AugcPost%3A6899945924785766400,Bhai abb tu marketing karware...scaler ki
+2022-02-17 05:46:33,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6898221038098898944,++
+2022-02-16 10:56:22,https://www.linkedin.com/feed/update/urn%3Ali%3AugcPost%3A6899595156224401408,how u will get the dare to quit the job of 1 crore  and have startup ... suppose if u come from below middle class
+2022-02-16 05:25:37,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6899387973138538498,So many Influencers with more number of followers in Likndeln  have become Marketing/advertising Professionals as well 😂 Suraz Ghimire
+2022-02-15 14:00:22,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6899345671556861954,Sarcastic on hirect🤣 Sumit Mittal
+2022-02-15 08:19:25,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6899213212508651520,Diff function in spark dataframe also will work ..
+2022-02-15 07:09:39,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6899226300624834560,Binoth Shahi
+2022-02-15 04:35:36,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6899199747001868289,Binoth Shahi
+2022-02-14 16:35:00,https://www.linkedin.com/feed/update/urn%3Ali%3AugcPost%3A6898986118558179328,Skipping the slides .because of interest of time...that may be huge smile🤣🤣🤣
+2022-02-13 14:58:29,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6898608771636060161,Hope I continue...
+2022-02-13 14:08:33,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6898608771636060161,Always....
+2022-02-12 16:58:09,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6898258822155370496,Great opportunity for iits and nits...
+2022-02-12 09:27:01,https://www.linkedin.com/feed/update/urn%3Ali%3AugcPost%3A6898162424302972928,If u Don't know swimming that also will be fun 🤣🤣
+2022-02-12 09:19:34,https://www.linkedin.com/feed/update/urn%3Ali%3AugcPost%3A6896629326209544192,Avengers....assemble......🤣🤣
+2022-02-12 06:18:51,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6898102029865111552,Very rare in the market... but who does that should deserve..more ..
+2022-02-12 05:10:20,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6897958313829498880,Whatever it is convert from Unix timestamp 🤣🤣
+2022-02-12 03:46:48,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6897597765074178048,I hope Great expectations should come  from Great expectations FinSMEs Ltd
+2022-02-11 12:07:06,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6897835851125022720,Binoth Shahi
+2022-02-10 09:45:36,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6897436622078525440,Great opportunity
+2022-02-10 04:09:02,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6897386989206003712,Relatable 😅
+2022-02-09 08:15:49,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6897038877719195649,Just a sarcastic smile
+2022-02-04 13:20:31,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6895277536423612416,Shift+tab also😉
+2022-02-04 13:09:17,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6895327860941303808,It's a cartesian product 4x4=16
+2022-02-01 10:40:15,https://www.linkedin.com/feed/update/urn%3Ali%3AugcPost%3A6891385415467945984,Agree
+2022-02-01 10:31:26,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6894211243599642625,Binoth Shahi
+2022-02-01 01:45:18,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6893849610163752960,Literally.... picking up the highest number of followers....on linkdlken and making promotions🤣
+2022-01-30 10:14:53,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6889560078815399936,Soumika Bhattacharjee
+2022-01-30 09:51:56,https://www.linkedin.com/feed/update/urn%3Ali%3AugcPost%3A6893449162688724992,Indentation for pythoniers...😅
+2022-01-27 03:57:46,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6892000954808700929,Literally you won't get sleep....will be in trans world😅
+2022-01-27 03:56:39,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6892303627600437248,Congratulations Shashi..
+2022-01-21 08:00:00,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6890166240757850112,He is cobbler too.... ?? Mention it...
+2022-01-21 07:56:37,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6889815874648322048,Opportunity doesn't come frequently...#freshers #jobs #fresher Soumika Bhattacharjee
+2022-01-14 05:18:36,https://www.linkedin.com/feed/update/urn%3Ali%3AugcPost%3A6887601125080489984,Divyank Khatri🤝
+2022-01-14 05:07:56,https://www.linkedin.com/feed/update/urn%3Ali%3AugcPost%3A6887601125080489984,You missed the name BHOGI... Happy festive
+2022-01-13 12:29:00,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6887346677674577920,Congrats bro...
+2022-01-13 02:33:25,https://www.linkedin.com/feed/update/urn%3Ali%3AugcPost%3A6887002152523448320,I need these....🤣
+2022-01-07 18:19:14,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6885266497363701760,Thanks for understanding the senario.... Ram . 
+2022-01-07 18:07:18,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6885266497363701760,Ashutosh Rai thanks for your suggestions..always helpful...some where something can be useful....in data world.... requirements are not specific...to one thing....
+Even I have used concat with string in use case.... Happy learning cheers....
+2022-01-06 04:39:39,https://www.linkedin.com/feed/update/urn%3Ali%3AugcPost%3A6884466894959714304,Please have something AI stuff on polls side.... unnecessary and irrelevant polls should be stopped...LinkedIn M Ayushi
+2022-01-04 03:59:43,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6883656822301970432,"Getting insights from organizations,job preparation,jobs,referrals,job insightful contents, technology related stuff are always helpful...untill unless useless content should be removed. LinkedIn LinkedIn Marketing Solutions LinkedIn Life please look such  useless polls..#mentors #teachers #trainers please take this campaign forward..Suraz Ghimire Sumit Mittal DataMaking iNeuron.ai"
+2022-01-02 11:08:06,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6883142259638984704,Ram . Glad it helped you...Thanks ram....will continue...the efforts ..🤝
+2022-01-02 05:27:14,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6883142259638984704,Definitely Sachin Mittal 🤝 New Year Resoultion building the better community...
+#newbeginnings2022 #linkedinfamily #newyearresolution 
+2022-01-01 18:14:52,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6883036051385008128,Rare...core jobs...++
+2021-12-31 19:43:02,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6878624382160396288,You can also send it to connect8ram@gmail.com
+2021-12-31 19:35:23,https://www.linkedin.com/feed/update/urn%3Ali%3AugcPost%3A6882602879115370496,It's not smart work ..it's smart machine
+2021-12-31 02:29:37,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6882239345290440704,Drop ur resume to connect8ram@gmail.com
+2021-12-30 17:39:40,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6881849003647090688,Drop mail to connect8ram@gmail.com
+2021-12-28 14:47:27,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6881516659979505664,Please send it resume to connect8ram@gmail.com
+2021-12-27 02:03:10,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6878224993843474432,Please drop mail to connect8ram@gmail.com
+2021-12-24 03:00:58,https://www.linkedin.com/feed/update/urn%3Ali%3AugcPost%3A6879851255703900160,Real time implementation . Airflow with bigdata senarios
+2021-12-22 17:14:42,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6878182500238286848,Glad it helped...👍
+2021-12-22 08:28:56,https://www.linkedin.com/feed/update/urn%3Ali%3AugcPost%3A6879103979612196865,Sagar Prajapati yes...bro..may be .. for high probability you can ..machine learning 😅
+2021-12-22 07:18:16,https://www.linkedin.com/feed/update/urn%3Ali%3AugcPost%3A6879318821816160256,My opinion is work depends on the timelines...rather than time bound....personal view....only...🙏
+2021-12-22 01:11:08,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6874238904103436288,There is no alias method for dataframe
+2021-12-22 01:08:33,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6874238904103436288,B
+2021-12-22 01:07:04,https://www.linkedin.com/feed/update/urn%3Ali%3AugcPost%3A6879103979612196865,LinkedIn  we need to have some basic  checks before posting it... something like approval...
+2021-12-21 13:36:07,https://www.linkedin.com/feed/update/urn%3Ali%3AugcPost%3A6878996406909194240,The  car that u bought it...😅Divyank Khatri
+2021-12-21 04:07:33,https://www.linkedin.com/feed/update/urn%3Ali%3AugcPost%3A6878728934842798081,"LinkedIn Help  we require ..an emoji..for saying...  ""How this post is helpful to the community.."""
+2021-12-20 15:00:22,https://www.linkedin.com/feed/update/urn%3Ali%3AugcPost%3A6878666127757721600,As of now from  India ...govt is not making any legalities for crypto market
+2021-12-20 09:24:19,https://www.linkedin.com/feed/update/urn%3Ali%3AugcPost%3A6878574044447412225,People who voted for 6 day a week may be higher management 😶
+2021-12-20 08:42:07,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6878182500238286848,Thanks Sachin Mittal Bhai....
+2021-12-20 01:55:44,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6878182500238286848,Rakesh Dey Hi Rakesh...updated ...
+2021-12-19 06:44:51,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6878182500238286848,Rakesh Dey  Thanks Rakesh for your suggestions...
+Surely will try to update the article...by default from spark 3x it is auto enabled...for demo purpose I disabled explicitly and enable...to show the execution plan...
+2021-12-19 01:15:13,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6876686397013577728,Soumil Shah  I'm bunny_vlogs subscriber....can we have gist of this video...if possible??
+2021-12-19 00:29:19,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6877648964817178624,#support
+2021-12-19 00:08:45,https://www.linkedin.com/feed/update/urn%3Ali%3AgroupPost%3A3990648-6877950458305110016,I'm afraid of govt alleged taxes..saying omicron effect...
+2021-12-18 01:45:33,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6874239567126421504,Why not b??
+2021-12-17 02:31:51,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6877368909402578944,Great aquisition..Hugging Face
+2021-12-17 02:14:07,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6876051317815681025,Abvously false it will go to next stage only when tasks of before stages completed
+2021-12-17 02:04:48,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6874242361170411520,There is no specific upsert  keyword in spark
+2021-12-15 13:25:07,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6876841049143308288,LinkedIn
+2021-12-07 16:06:09,https://www.linkedin.com/feed/update/urn%3Ali%3AugcPost%3A6873949599782981632,Bit curious...how they were meeting the timelines....
+2021-12-06 06:49:35,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6873468173006512128,Deepak Goyal I'm following u ..😅 that is why I found ur post
+2021-12-06 06:19:18,https://www.linkedin.com/feed/update/urn%3Ali%3AugcPost%3A6873490052777881600,Quite surprising... Hyderabad....??
+2021-12-06 06:18:18,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6873468173006512128,sairamdgr8@gmail.com
+2021-12-06 00:52:18,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6872504775041253376,Same insights....here as well explanation.......🤣
+2021-12-04 16:38:57,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6872840544167583744,joy dev Binoth Shahi
+2021-12-04 16:11:47,https://www.linkedin.com/feed/update/urn%3Ali%3AugcPost%3A6872810093784637440,#support #help
+2021-12-04 00:00:05,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6871794613271830528,Always lazy
+2021-12-01 08:20:54,https://www.linkedin.com/feed/update/urn%3Ali%3AugcPost%3A6868823267000639488,There should be laugh symbol...😅
+2021-12-01 01:06:35,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6871428422623731712,It's c
+2021-11-30 11:40:58,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6871362021833613312,Good Bhai....👍
+2021-11-29 08:10:53,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6870979747883679744,A
+2021-11-29 08:09:02,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6870979461580488704,C
+2021-11-28 00:31:44,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6869173346081353728,Dbc
+2021-11-28 00:18:53,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6868874632007581696,His wife has been given  post of group-1 officer in our state government...for his honor
+2021-11-26 03:43:14,https://www.linkedin.com/feed/update/urn%3Ali%3AugcPost%3A6869819724327469056,Ats means application tracking system where it detects the contents of resume .
+2021-11-24 16:10:52,https://www.linkedin.com/feed/update/urn%3Ali%3AugcPost%3A6869112942307110912,It's better we won't make linkdlken one more Facebook...
+Just my thoughts
+#linkedin #linkedinposts
+2021-11-24 15:25:29,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6869268986303942656,Vinu Chakravarthy
+2021-11-22 05:17:57,https://www.linkedin.com/feed/update/urn%3Ali%3AugcPost%3A6868416561573572608,Congtraz bro....
+2021-11-21 08:36:38,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6868074973362298880,Binoth Shahi
+2021-11-20 15:30:59,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6867719224001916928,Divyank Khatri will wait  for review...
+2021-11-20 10:42:44,https://www.linkedin.com/feed/update/urn%3Ali%3AugcPost%3A6867768678675468289,PRAMOD AGRAWAL
+2021-11-20 07:54:03,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6867719224001916928,Divyank Khatri  congrats...
+curious: about the average mileage...
+2021-11-20 07:52:36,https://www.linkedin.com/feed/update/urn%3Ali%3AugcPost%3A6867708402840211456,Nice...just thinking how would they sit 😅 Anthony J James
+2021-11-19 05:19:18,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6867308732565590016,No one is making fun..more over people are in stale state of mind ...right now... #ipo
+2021-11-19 02:15:14,https://www.linkedin.com/feed/update/urn%3Ali%3AugcPost%3A6867260578281390080,I hope temperature lock is present for it....😅 Anthony J James
+2021-11-18 13:23:59,https://www.linkedin.com/feed/update/urn%3Ali%3AugcPost%3A6867063575379226624,A car...reason: Will sell it ..and go for the same domestic vacation  will resonable cost Ankur Warikoo
+2021-11-18 05:24:32,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6866957549296508928,Really tough one.. decision...👍
+2021-11-16 12:51:45,https://www.linkedin.com/feed/update/urn%3Ali%3AugcPost%3A6866176320817135616,Just curious: if the person is heavy weight or tall how this gonna manage...Anthony J James
+2021-11-15 12:08:46,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6865974989091426305,I stand by ur words.....at the same time candidate is waiting to join and last minute offer taken back by the organization will cause more devastating to candidate as many hopes and lives are critically depends on it......
+Both situations  are vice versa......we should not see one side of it...
+2021-11-13 15:48:39,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6865225410473549824,Most of the time I prefer making food myself..🤝
+2021-11-10 10:33:14,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6864036947279667200,Wala
+2021-11-10 07:08:09,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6860138754166853632,sairamdgr8@gmail.com
+2021-11-10 02:48:56,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6863396114964525056,Exactly..crisp....👌
+2021-11-09 01:33:43,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6863325756454420480,You have to consider the intake  is inversely propertional to demand
+2021-11-07 17:11:46,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6861189542419025920,Bhim
+2021-11-01 17:33:10,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6860986649325645824,Thanks Bhai ..👍
+2021-11-01 17:03:14,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6859330876497559553,It's a Mix of Bag!...
+2021-10-30 09:53:45,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6860062145728561152,This kind of Attitude never helps in IT world....need to be polite and responsible. 🤝
+2021-10-30 02:07:51,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6859363613338062849,Instead of reaction..they need to know employer intention...of doing it...and learn from it.    🤝
+2021-10-30 01:46:47,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6859854533473005568,Why not MANGA...
+2021-10-29 04:36:46,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6859702633276469248,Good luck....Ajith Sasidharan ...🤝
+2021-10-29 02:44:05,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6858693230939168768,Binoth Shahi joy dev
+2021-10-27 07:55:44,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6859006895940780032,10 k per month here ...
+2021-10-23 01:39:16,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6857329850760486912,Data engineer sometimes devops guy as well
+Data engineer sometimes data modeller as also
+2021-10-22 05:32:27,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6856972769997938688,++support
+2021-10-21 04:33:32,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6856801034560528384,Seniority-ego collide together.
+2021-10-20 02:38:36,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6856173293804806144,#corebranches
+2021-10-17 11:12:46,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6855372212220899328,Bank details ...plz....Ravishanker Muniasamy
+2021-10-17 01:32:44,https://www.linkedin.com/feed/update/urn%3Ali%3AugcPost%3A6855098523348717568,Canteen Bhayia
+2021-10-16 15:06:31,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6855150932762640384,Docker: Stop fighting....
+2021-10-15 18:14:55,https://www.linkedin.com/feed/update/urn%3Ali%3AgroupPost%3A25827-6854798389155127296,Yeah it's really helpful for pyspark setup as well...
+2021-10-14 02:39:06,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6854065770360659968,joy dev
+2021-10-07 04:00:28,https://www.linkedin.com/feed/update/urn%3Ali%3AgroupPost%3A2013423-6851704637104435200,How it can be accurate when there is no training...and testing.  On dataset......?
+2021-09-30 11:35:11,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6849287596380590080,Vinu Chakravarthy
+2021-09-24 17:39:55,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6847165533415079937,Thank you Atanu Das
+2021-09-24 16:55:55,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6847165533415079937,Thanks Arushi Singh 🙂
+2021-09-24 14:43:11,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6847165533415079937,Thanks guruji...😀
+2021-09-24 14:06:48,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6847165533415079937,Thanks ANNA DAVID 
+2021-09-22 12:39:31,https://www.linkedin.com/feed/update/urn%3Ali%3AugcPost%3A6846403147922055168,Firebolt 🔥 on the way....
+2021-09-18 18:48:33,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6843033603186679808,It's also used for etl
+2021-09-18 02:56:34,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6843782809895673856,Accenture
+2021-09-14 01:33:00,https://www.linkedin.com/feed/update/urn%3Ali%3AugcPost%3A6843303153417420800,Congratulations...Bhai...
+2021-09-10 17:31:29,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6842056126234685441,Bhadi ho....Bhai..
+2021-09-09 10:44:30,https://www.linkedin.com/feed/update/urn%3Ali%3AugcPost%3A6841630207233814528,People who said yes...may be higher management ...fingers cross..
+2021-09-03 12:20:47,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6839443448878264321,Binoth Shahi  great opportunity
+2021-08-30 02:06:34,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6837787376367095808,Satya Siva Krishna better reach
+2021-08-20 02:23:43,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6834148557914824704,Sagar Prajapati bro he just mentioned about your comment in all the different posts you make . Peace 🤝
+2021-08-20 00:56:28,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6834092218471591936,Trees can handle continuous datasets as well...
+2021-08-19 17:30:55,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6834149254500499456,Finally !....❤️
+2021-08-18 16:33:44,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6833699974547689472,"Hi Sagar Prajapati , point is that ..when people get some things which they have never touched....will get happiness sometimes when they showcase it....life is not same for everyone...🙂...peace 🤝"
+2021-08-11 17:43:01,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6831148476680814592,Congtraz....but the date is shown 23rd August 2021...how is it possible...correct me if any...??
+2021-08-03 18:10:17,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6828327182457200640,sairamdgr8@gmail.com
+2021-07-21 17:29:52,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6823187934708154368,May be a technical glitch...
+2021-07-12 16:46:06,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6819947231727239168,Agree...
+2021-07-12 16:42:24,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6820304386137427969,Congtraz...Anna...
+2021-06-28 01:20:29,https://www.linkedin.com/feed/update/urn%3Ali%3AgroupPost%3A7403611-6814928005748674560,This is rolling sum example
+2021-06-20 02:25:01,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6809682232182145024,Binoth Shahi
+2021-06-20 02:08:32,https://www.linkedin.com/feed/update/urn%3Ali%3AugcPost%3A6810766212507693056,Try Nosql DB ..as it may help you play around structured and instructed data.. see some  analytical functions won't work in mysql
+2021-06-10 16:42:10,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6808634462260342784,It's a vis a vis contest...
+2021-06-08 00:15:36,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6807715914717401088,Pungaraja Thangavel  any leads here ...may help your findings🙏
+2021-06-02 05:32:33,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6803714816490913792,For executive MBA's no placement opportunities
+2021-05-29 10:34:04,https://www.linkedin.com/feed/update/urn%3Ali%3AugcPost%3A6804271665674039296,They are just doing it for free promotions...
+2021-05-28 15:08:30,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6803586763358056448,It's trending....
+2021-05-24 07:33:33,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6802428187252023296,Yeah its similar to pyspark functionality.. we leverage those apis
+2021-05-19 17:03:28,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6800247219950899200,Vignesh K V
+2021-05-15 02:48:05,https://www.linkedin.com/feed/update/urn%3Ali%3AugcPost%3A6798904337419579392,PRAMOD AGRAWAL
+2021-05-05 19:56:33,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6795311575621234688,#supportpradeeppoonia
+2021-04-30 17:55:00,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6793721212003594240,Soumika Bhattacharjee
+2021-04-27 12:49:07,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6792683374327693312,Thanks Pramod glad u found interesting...
+2021-04-27 08:45:41,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6792683374327693312,Thanks Joy...glad you liked it...
+2021-04-16 02:37:19,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6788333239481184257,Soumika Bhattacharjee
+2021-04-14 19:22:44,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6783359833132281856,Dm
+2021-04-14 08:51:03,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6788013555049410561,Vignesh K V udeesh sharma
+2021-04-10 12:28:12,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6786603787302813696,Pardeep Gorla  Systems will be  backed...with big shots all over the world
+2021-04-07 07:40:44,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6785460852431630337,#supportpradeeppoonia
+2021-03-24 02:50:25,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6780177174122033152,Satadru Mukherjee  My question is...why can't k-means can solve it
+2021-03-23 16:58:30,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6780092593087885312,Datascience??
+2021-03-23 07:38:27,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6779774637074202626,Soumika Bhattacharjee
+2021-03-23 00:37:20,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6779726400032260096,1
+2021-03-23 00:31:12,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6779793555184611328,PRAMOD AGRAWAL
+2021-03-19 03:18:39,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6778283750154498049,#supportpradeeppoonia
+2021-03-18 05:01:09,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6777814464071770112,Thanks for sharing...
+2021-03-16 23:04:53,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6777597941197664257,PRAMOD AGRAWAL
+2021-03-16 13:01:35,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6777473665761075200,Harsh Sharma
+2021-03-16 12:57:56,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6777133707598815232,Interested
+2021-03-16 12:56:38,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6777133707598815232,Dm
+2021-03-15 05:46:40,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6777097355431956480,Congrats Uday
+2021-03-14 02:21:20,https://www.linkedin.com/feed/update/urn%3Ali%3AugcPost%3A6769515867232313344,joy dev thanks Joy....
+2021-03-12 13:12:02,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6776100433560768512,Congrats Ravi Kant
+2021-03-11 13:06:43,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6775253088774197256,Congrats Nagarjuna
+2021-03-11 08:14:59,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6775253191920517120,Congrats Sree
+2021-03-10 14:46:16,https://www.linkedin.com/feed/update/urn%3Ali%3AugcPost%3A6769515867232313344,Thanks shravan...
+2021-03-10 14:45:33,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6773079657454546947,Happy work-iversary!
+2021-03-10 06:02:09,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6774930334044737536,#supportpradeeppoonia
+2021-03-10 06:00:57,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6774933340039589888,Congrats Elayaraja
+2021-03-06 07:27:30,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6773790075445633024,PRAMOD AGRAWAL
+2021-03-06 03:37:23,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6773636917784408064,PRAMOD AGRAWAL
+2021-03-06 03:36:35,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6773460846199865344,PRAMOD AGRAWAL  we need to discuss...
+2021-03-03 15:53:31,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6772844560335847424,Luv Gupta inspiration...
+2021-03-03 12:16:19,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6772844560335847424,Congrats again....sirji...
+2021-03-03 00:23:18,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6772037062800609280,Congrats Abhishek
+2021-03-02 15:34:55,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6772528056428048384,Rahul Esikala
+2021-03-02 15:01:16,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6772529247153217536,Congrats lav
+2021-03-02 15:00:56,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6772409355447926785,Cheshtha Thakur🤝
+2021-03-02 13:26:27,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6772481666402324480,Vignesh K V
+2021-03-02 11:00:25,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6772409355447926785,Congo.  ✌️
+2021-03-02 00:18:35,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6770612255856869377,PRAMOD AGRAWAL
+2021-03-02 00:18:19,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6771844851521720320,PRAMOD AGRAWAL
+2021-03-02 00:13:01,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6772110665512431616,PRAMOD AGRAWAL
+2021-03-01 17:25:58,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6772138884731027456,PRAMOD AGRAWAL 
+2021-03-01 17:22:23,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6772050711388712960,PRAMOD AGRAWAL 
+2021-03-01 05:59:30,https://www.linkedin.com/feed/update/urn%3Ali%3AugcPost%3A6769515867232313344,Thanks Fahad
+2021-02-28 08:17:29,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6771174438433124352,Congrats Kishore Kumar
+2021-02-27 14:09:40,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6771332095647236096,By the way he changed his name as well ... #linkedinfamily  be #caution ⚠ 
+2021-02-27 14:05:17,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6771392425010196480,PRAMOD AGRAWAL
+
+2021-02-26 10:59:43,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6770946169490169858,PRAMOD AGRAWAL
+2021-02-26 10:58:39,https://www.linkedin.com/feed/update/urn%3Ali%3AugcPost%3A6769515867232313344,Thanks Avinash...
+2021-02-26 10:58:00,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6764138324413169664,Thanks Avinash....
+2021-02-26 07:48:24,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6770958688778907648,Harsh Sharma
+2021-02-26 07:44:47,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6770964530676817920,PRAMOD AGRAWAL 
+2021-02-25 16:40:33,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6770390546201632768,PRAMOD AGRAWAL
+2021-02-25 15:35:18,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6769116722185166848,PRAMOD AGRAWAL
+2021-02-25 15:33:40,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6770658366835499008,PRAMOD AGRAWAL
+2021-02-25 06:37:10,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6770292472452141056,PRAMOD AGRAWAL
+2021-02-25 03:43:32,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6767644025999638532,Congrats Rahul
+2021-02-25 03:06:41,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6770537086580854784,Congrats sirji...
+2021-02-24 16:49:12,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6770283107443638272,PRAMOD AGRAWAL
+2021-02-24 11:37:58,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6770282053696069632,PRAMOD AGRAWAL
+2021-02-23 15:55:39,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6769863994283958272,PRAMOD AGRAWAL
+2021-02-22 12:15:46,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6768502541706690560,PRAMOD AGRAWAL
+2021-02-22 12:15:16,https://www.linkedin.com/feed/update/urn%3Ali%3AugcPost%3A6769515867232313344,Thanks Pramod ...
+2021-02-22 09:06:27,https://www.linkedin.com/feed/update/urn%3Ali%3AugcPost%3A6769515867232313344,Thank you
+2021-02-22 08:34:46,https://www.linkedin.com/feed/update/urn%3Ali%3AugcPost%3A6769515867232313344,Thanks sirji. .
+2021-02-20 07:48:58,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6767011593160060928,PRAMOD AGRAWAL
+2021-02-20 06:19:46,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6768430093493772288,Sujeet Kumar Maddhesiya 
+2021-02-11 08:31:50,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6764899973004951552,#supportpradeeppoonia
+2021-02-08 13:03:56,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6764451338974842880,Aruun Raju helping hands🤝
+2021-02-08 13:01:51,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6764444534001741824,#supportpradeeppoonia
+2021-02-08 12:59:57,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6764451338974842880,PRAMOD AGRAWAL
+2021-02-05 10:35:37,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6763133534950432768,PRAMOD AGRAWAL
+2021-02-04 15:16:12,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6762403674808451072,PRAMOD AGRAWAL
+2021-02-04 15:15:21,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6762403674808451072,Sujeet Kumar Maddhesiya
+2021-02-04 07:33:05,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6761841697312792576,Congrats Vignesh
+2021-02-02 02:06:36,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6761884544296738816,Relatable....🤣
+2021-02-02 01:38:04,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6761902927574638593,PRAMOD AGRAWAL
+2021-01-30 18:03:31,https://www.linkedin.com/feed/update/urn%3Ali%3AugcPost%3A6761296058384478208,Pradeep Poonia
+2021-01-28 16:49:56,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6760104559076552704,This is BigData 🤣🤣
+2021-01-25 18:19:02,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6759378628166897665,Congrats Komal
+2021-01-24 14:26:53,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6756659646288723968,Pradnya Narkar🤟
+2021-01-24 10:39:58,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6756659646288723968,"In the mail....they did wrong in spelling...."" Thanks""..... anyone noticed??"
+2021-01-22 09:07:47,https://www.linkedin.com/feed/update/urn%3Ali%3AugcPost%3A6756996695193739264,PRAMOD AGRAWAL
+2021-01-21 05:13:08,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6757257307618385920,Congrats Murtaza....
+2021-01-20 16:46:44,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6757647401500102656,Congrats sirji
+2021-01-20 06:44:46,https://www.linkedin.com/feed/update/urn%3Ali%3AgroupPost%3A131724-6757314480151044096,Rahul Esikala
+2021-01-17 03:50:39,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6755792986203852800,ARJUN NAIK
+2021-01-16 12:37:36,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6755792986203852800,Great opportunity...
+2021-01-11 18:00:47,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6754364699539832832,Mikkee Kumar
+2021-01-07 13:18:56,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6752193981842620416,Yasoda Krishna Kuppili
+2021-01-06 06:11:58,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6752463028626702336,Good info ...👍
+2021-01-05 01:55:59,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6751870911126781952,Great opportunity....
+2021-01-04 03:05:16,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6751457032064376832,I support Pradeep Poonia
+2021-01-03 01:39:46,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6751169574856609792,Done☑️
+2020-12-31 04:22:55,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6750247039814238208,Congrats sirji....
+2020-12-24 01:44:00,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6747540098671292417,May be spark with koalas...can replace mostly pandas...with extra power...
+2020-12-22 22:05:46,https://www.linkedin.com/feed/update/urn%3Ali%3AugcPost%3A6747224418096955392,mam u look like a joker
+2020-12-20 03:31:01,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6745514707978874880,Money to the government is opportunitisc....
+2020-12-19 13:56:54,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6746035330270535680,E
+2020-12-19 13:54:33,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6746032794008453120,E
+2020-12-19 13:53:05,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6746032219539800064,E
+2020-12-19 05:23:55,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6744308268509777921,Link is deprecated
+2020-12-19 04:58:05,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6745692483428200448,JustEnough Spark👍
+2020-12-19 03:56:24,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6745692483428200448,E
+2020-12-17 16:22:44,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6745332968203649024,True ...actions come under wide transformations
+2020-12-16 13:51:45,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6744942448461660160,1
+2020-12-16 01:51:45,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6744240627195641857,There are other search engines to search..😂
+2020-12-16 01:38:47,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6744601413416038400,C
+2020-12-16 01:35:46,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6739791221360775168,Soumika Bhattacharjee
+2020-12-16 01:32:47,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6744289302160773120,B
+2020-12-16 01:29:27,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6744288003264516096,C
+2020-12-14 13:14:29,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6744231905996226561,3
+2020-12-12 17:24:23,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6743559868730503168,A 
+2020-12-12 14:42:40,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6712765382568091648,👍
+2020-12-12 07:45:12,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6715540589095464960,Thanks for noticing....
+2020-12-12 07:44:13,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6704437365433344000,👍
+2020-12-09 12:55:22,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6740475425601929218,Congrats sirji
+2020-12-07 13:55:02,https://www.linkedin.com/feed/update/urn%3Ali%3AugcPost%3A6741652557237768192,Physical fitness .😀
+2020-11-28 02:22:10,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6738180059103854592,Irony is that they gave ball to ball match for old game....😂
+2020-11-27 12:52:31,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6737958867411582976,C
+2020-11-27 12:45:19,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6738013067369594880,Congrats Ashu
+2020-11-26 09:11:37,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6737598952302084096,C
+2020-11-25 12:02:34,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6737233308637388800,C
+2020-11-22 08:36:02,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6734793413776019456,Who knows python creator..can create COBRA..too..
+2020-11-21 01:21:54,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6734087355222769664,Harsh Sharma Mohit Kumar ....
+2020-11-20 17:14:00,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6735478547441364993,Soumika Bhattacharjee
+2020-11-17 12:19:30,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6734407023674318848,Quick reach...
+2020-11-17 04:44:04,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6731512894057443328,Abhishek Choudhary  how about koalas library....?can you please explain?
+2020-11-15 16:45:55,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6733732671907782656,Samsung Electronics Honor Redmi Xiaomi OPPO Recrutement Motorola Solutions LG Electronics ASUS Business & Education vivo Bangladesh Users & Employee Community #thinktwice...let's create a hashtag....
+2020-11-08 11:11:18,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6730357872691040256,20000 cr investment...
+2020-11-07 11:51:27,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6728141850118520832,Azarudeen S  can u send ur mail I'd?
+2020-11-07 01:19:29,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6728141850118520832,Congratulations!
+2020-11-06 17:55:59,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6730533921332834304,Wider reach...
+2020-11-05 23:58:12,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6728716524846235649,Vinod Kawathia can you connect with me...because I'm out of  connections...
+2020-11-05 14:21:52,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6729741805492994048,Harsh Sharma Mohit Kumar
+2020-11-04 13:03:23,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6729714365773205504,Congrats..
+2020-11-04 00:33:07,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6728716524846235649,Interested
+2020-11-03 12:30:56,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6728886461283880960,D
+2020-11-03 11:24:39,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6729249261445287936,C
+2020-11-03 08:41:53,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6729261275655790592,Harsh Sharma Mohit Kumar
+2020-11-03 07:13:43,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6729253397029023745,Don't it leads to overfitting....?? just a doubt...
+2020-11-02 13:37:52,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6729011084361109504,"You can use regex,multiple list speciification"
+2020-11-02 04:53:32,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6728656778751561728,Harsh Sharma Mohit Kumar
+2020-11-01 07:50:23,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6727824075558809600,Interested
+2020-11-01 07:35:54,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6725359165776158720,B
+2020-11-01 07:34:59,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6728306449442762752,It's every retailers.. ...story...
+2020-10-30 17:18:25,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6727780737233276928,Harsh Sharma Mohit Kumar
+2020-10-27 16:10:05,https://www.linkedin.com/feed/update/urn%3Ali%3AugcPost%3A6726885620452528128,yo yo...we want senario based questions
+2020-10-26 18:06:19,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6724655882484944896,+
+2020-10-25 00:35:41,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6725614607274192896,Harsh Sharma Mohit Kumar
+2020-10-21 09:04:25,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6724570611554885632,Interested
+2020-10-20 06:33:02,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6719212808162086913,Divyank Khatri please check inbox
+2020-10-20 06:24:10,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6719212808162086913,Divyank Khatri 3.3 pan India
+2020-10-20 03:51:40,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6719212808162086913,Interested in AWS and Big data
+2020-10-20 00:31:57,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6722218286584594432,Interested BigData+AWS
+2020-10-19 12:18:57,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6719131726720860160,Simple and clean
+2020-10-19 12:11:41,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6723616156185305088,"Interested for AWS ,spark"
+2020-10-19 07:43:33,https://www.linkedin.com/feed/update/urn%3Ali%3AugcPost%3A6723834438419144704,Interested..
+2020-10-19 07:38:21,https://www.linkedin.com/feed/update/urn%3Ali%3AugcPost%3A6723658917118828544,Rajesh Maheshvari👍
+2020-10-19 07:06:06,https://www.linkedin.com/feed/update/urn%3Ali%3AugcPost%3A6723658917118828544,Rajesh Maheshvari
+2020-10-18 09:07:45,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6723234503265001472,13
+2020-10-16 16:24:07,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6720644620126040065,Interested
+2020-10-16 12:34:48,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6722842058874351616,E
+2020-10-16 12:10:42,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6722836116753514496,A
+2020-10-16 06:22:49,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6721381790449250304,Interested
+2020-10-16 06:22:19,https://www.linkedin.com/feed/update/urn%3Ali%3AugcPost%3A6721818706218938369,Make sense....
+2020-10-12 10:37:50,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6719517043718160384,Pyspark
+2020-10-11 13:52:18,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6720133329775022080,+BigData
+2020-10-10 11:24:58,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6720374181504020480,Interested
+2020-10-09 07:38:42,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6719932272587370496,Interested
+2020-10-05 17:25:17,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6718797805126852608,+
+2020-10-04 15:39:09,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6716322399383560192,Will do feature engineering..
+2020-09-30 05:32:42,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6716424704397209600,++
+2020-09-28 09:35:26,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6716253541352177664,Mikkee Kumar 
+2020-09-25 18:49:41,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6714631449225641984,Interested
+2020-09-25 14:30:46,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6714168534450130945,Interested
+2020-09-25 09:16:42,https://www.linkedin.com/feed/update/urn%3Ali%3AugcPost%3A6715071510836502528,Better reach...
+2020-09-19 05:48:09,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6712765382568091648,Thanks brother...
+2020-09-13 11:53:01,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6702254647870058496,Congrats Luv
+2020-09-04 13:24:18,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6706211976328093696,Yes
+2020-09-04 03:08:35,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6705049162146209792,++Better reach
+2020-08-27 18:25:27,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6702918079623573504,Harsh Sharma
+2020-08-27 11:34:33,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6704437365433344000,Thanks mam ..will put more efforts....
+2020-08-27 11:32:31,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6703676845189054464,Commenting for better reach..
+2020-08-23 10:07:32,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6703212262099943424,"Center shock ,mentos is missing"
+2020-08-12 04:26:34,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6694865015159320576,+
+2020-07-22 13:30:53,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6688736415095885824,++ ml+data science+data engineering
+2020-07-09 14:22:38,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6686997417675542528,Congrats Ankit
+2019-11-08 18:16:47,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6594042468520472576,Congrats Parth
+2019-09-30 12:43:54,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6583613036819513344,Congo....
+2019-08-02 17:13:11,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6562934411833245696,Congrats Shravan
+2019-07-19 13:04:34,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6557074325374025729,Time flies!
+2019-07-08 12:39:25,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6533962135121289216,Congratulations!
+2019-06-30 06:07:16,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6549252361762758656,Congrats Divya
+2019-06-21 04:47:44,https://www.linkedin.com/feed/update/urn%3Ali%3AugcPost%3A6546653700314718208,It's an revenge period
+2019-06-21 04:37:16,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6546372985048092672,Smart kid
+2019-06-21 04:27:49,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6546568203907153923,Congrats Kanhaiya
+2019-05-14 12:07:02,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6533962135121289216,Good luck with your new role!
+2019-03-11 04:53:05,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6510710355252080641,Congrats
+2018-10-22 17:38:02,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6458913181527048192,Antarix bharadwaj
+2018-09-04 10:22:58,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6434234968506920960,Congrats engineer...
+2018-05-03 05:10:31,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6396182327654903808,Congrats...sir...
+2017-10-29 16:23:07,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6328469816604758016,working as a boss behave like employee.
+2017-03-06 14:32:42,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6203181312048750592,mam this to inform you that iam an student searching for java trainee intership...please help me..Pathikondalakshmisairam@gmail.com
+2017-02-17 13:50:44,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6201398160691122177,can you please upload the resume template for freshers...in docx format..
+2016-12-18 03:09:25,https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6201398160691122177,plz send sir Pathikondalakshmisairam@gmail.com

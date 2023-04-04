@@ -1,0 +1,42 @@
+Question,Answer
+Your title,Data Engineer
+State,Singapore
+Street address line 2,Hyderabad
+State / Province,Haryana
+Dates of employment,2022-04-01 - 
+Country,India
+Description,Worked on content management system
+Degree,Bachelor of Technology
+City,"Noida, Uttar Pradesh, India"
+ZIP / Postal Code,520268
+Photo,1363698532.png
+Last name,P L
+Country,Singapore
+City,"Rohtak, Haryana, India"
+Your title,Consultant-I
+Street address line 1,1-5-817/1
+Please submit a resume or LinkedIn profile,1228694455.pdf
+Please submit a resume or LinkedIn profile, -394645390.pdf
+School,Maharshi Dayanand University
+Mobile phone number, +65 81306750
+Description,"Client- NIKE & MERCK Working as a Data Engineer with Technologies like HIVE,PYSPARK, AIRFLOW, SNOWFLAKE,AWS Services. Roles & Responsibilites: Working with Pyspark scripts on daily incremental loads, backﬁlling historical data for change in tables using Pyspark,logical changing of Pyspark scripts implementing business requirment changes on Agile Methodolgy using EMR. Orchestrating the workﬂow of Airﬂow jobs .Changing the pipeline on the basis of requirment. Working with lambda functions using pandas Library connecting with DynamoDB and Snowﬂake to get response of Data Tranformations via API Gateway. Perform some quality checks and store data into S3 using Athena and Hive Working closley with DatamodellingTeam, QA and Production team during Deployment. POC Tasks- Snowﬂake Accelerator:- Lead the 8 member team implementing Snowﬂake CICD Process using AWS Devops Tools and Docker"
+First name,Sairam
+Dates of employment,2017-07-01 - 2017-07-01
+Your title,Sharepoint Developer
+Description,"07/2017 - 02/2021, India-Noida Client - Franklin Templeton Worked as a BigData Engineer with Technologies like PYSPARK,Scala,SNOWFLAKE,AWS Services. Created data extraction framework to extract ﬂat ﬁles like csv, excel, xml, txt from FTP server using Python. Data from multiple sources like Salesforce,Oracle,FTP Server to ingesting the data into S3 (staging) from different sources we are using SQOOP as an ingestion tool. we were using INFORMATICA CLOUD for the data ingestion from SalesForce. Developed reusable framework to implement business logic and perform SCD1/SCD2 using SPARK-SQL. Developed complex SQL queries to implement business logic implementation. Worked on  framework to load full/Incremental data to AWS Redshift using Spark-Sql. Created AWS lambda to automate AWS EMR,connecting to Snowﬂake to populate data via API Gateway for response data in Json Format. Written StoreProcedures in Snowﬂake for creating Roles for admin activites on daily basis using JAVA SCRIPT Creation/termination and triggering of AWS datapipeline Created tables in AWS Redshift using best practices "
+Company,KPMG India
+Your title,Big Data Engineer
+State / Province,Karnataka
+Major / Field of study,Computer Science & Engineering
+Dates attended,2013-07-null - 2017-06-null
+Cover letter,"I have 5 years of working experience with pyspark,AWS,SQL,ETL and snowflake. I have been in Singapore since April 2022 on an Employment pass. Looking for Full-time opportunities. my LWD day with DBS is Dec 31 2022.  "
+Dates of employment,2021-02-01 - 2022-04-01
+Company,EY
+State / Province,Uttar Pradesh
+City,"Bengaluru, Karnataka, India"
+Dates of employment,2018-03-01 - 2021-02-01
+State / Province,
+City,"Singapore, Singapore"
+Company,DBS Bank
+Description,"Working with Campaign and marketing Business team helping them to analyse and create Tables for the different Campaings. As a part of Data team  works on use cases physicalizing views into  creating final layer tables from source tables as per the business requirements.   Optimizing the  Views created by different Campaign Owners in Teradata  on top of different tables consolidating them under one which defining meaningful way of business data Transformation.   Working with Teradata tables creation with business logic migration from Analytic cluster to operational Spark Cluster with Spark SQL.   Having understanding on Data modeling of FSLDM.   Using Spark based Architecture called ADA Platform we write SQL querys and  Pyspark  based programming based on the requirements.   Creating Collibra objects by understanding and analysing the each column level checks.   Worked with Developing python parsers and enrichment functions and UI for campaign users to make real-time customer identification, segmentation and offers.   Worked on implementing migration of Filebeat ELK Logs instance writing output from logstash to Kafka using Openshift.   "
+Company,Genpact
